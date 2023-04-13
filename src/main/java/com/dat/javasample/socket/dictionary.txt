@@ -1,0 +1,5 @@
+big;to lớn
+strong;mạnh
+min;nhỏ
+school;trường học
+good;tốt
