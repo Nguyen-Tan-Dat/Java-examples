@@ -4,6 +4,7 @@ module com.dat.javasample {
     requires java.desktop;
     requires org.jsoup;
     requires org.json;
+    requires org.apache.poi.poi;
 
 
     opens com.dat.javasample to javafx.fxml;
